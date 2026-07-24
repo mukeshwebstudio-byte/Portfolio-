@@ -1,0 +1,6 @@
+{
+  "name": "Mukesh M Portfolio & 3D Visual Studio",
+  "description": "Interactive portfolio for Mukesh M featuring advanced 3D Three.js particle morphing, geometric orbiters, civil-tech estimators, and portfolio enhancement tips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
